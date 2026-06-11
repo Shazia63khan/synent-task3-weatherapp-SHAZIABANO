@@ -30,13 +30,9 @@ pip install requests
 2. Generate an API key.
 3. Open `weather_app.py`.
 4. Replace:
-
-```python
-API_KEY = "1400d40a926bad1eac4a0a288cce3f77"
-
+```text
+    YOUR_API_KEY with your own key
 ```
-
-with your actual API key.
 
 ## How to Run
 
